@@ -1,0 +1,13 @@
+{
+  "name": "Telemt MTProxy",
+  "version": "1.0.0",
+  "slug": "telemt",
+  "description": "Telegram MTProto proxy",
+  "arch": ["armv7", "arm64", "amd64"],
+  "startup": "services",
+  "boot": "auto",
+  "init": false,
+  "host_network": true,
+  "options": {},
+  "schema": {}
+}
